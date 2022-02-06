@@ -5,3 +5,4 @@ Django==3.2.9
 sqlparse==0.4.2
 python-dotenv~=0.19.2
 PyMySQL~=1.0.2
+django-debug-toolbar~=3.2.4
